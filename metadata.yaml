@@ -1,0 +1,4 @@
+name: astrbot_plugin_chat_logger
+desc: 私聊旁路存档器——拦截私聊状态下用户与 LLM 的完整对话，异步写入本地 TXT 文件，不干涉任何原生流程。
+author: umisama
+version: 0.0.1
